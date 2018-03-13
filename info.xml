@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="biz.lcdservices.pricefieldcategory" type="module">
+  <file>pricefieldcategory</file>
+  <name>Price Field Categories</name>
+  <description>Adds a field to the price field form to select a category for the field (e.g. meal, registration, etc.).</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Lighthouse Consulting and Design</author>
+    <email>dev@lcdservices.biz</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-02-20</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/PriceFieldCategory</namespace>
+  </civix>
+</extension>
